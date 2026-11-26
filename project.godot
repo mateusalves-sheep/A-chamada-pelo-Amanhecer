@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="A chamada pelo Amanhecer"
+run/main_scene="uid://cxij7hihivah4"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
