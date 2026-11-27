@@ -12,3 +12,4 @@ Thumbs.db
 
 # IMPORTANTE: NÃO ignorar a pasta docs/.
 # O .pck, .wasm e .js exportados precisam subir para o GitHub Pages.
+src/PostApocalypse_AssetPack_v1.1.2/
